@@ -1,0 +1,13 @@
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\bin\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.exe
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\bin\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.deps.json
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\bin\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.runtimeconfig.json
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\bin\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.runtimeconfig.dev.json
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\bin\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.dll
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\bin\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.pdb
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\obj\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.csprojAssemblyReference.cache
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\obj\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.AssemblyInfoInputs.cache
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\obj\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.AssemblyInfo.cs
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\obj\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.csproj.CoreCompileInputs.cache
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\obj\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.dll
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\obj\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.pdb
+C:\Users\10-64\source\repos\Simple Data Type CharStringBoolTypes\Simple Data Type CharStringBoolTypes\obj\Debug\netcoreapp3.1\Simple Data Type CharStringBoolTypes.genruntimeconfig.cache
