@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\GetHub\C-Plus-Plus\Review Structure\Review Structure\Source.cpp(128,10): error C2535: 'Subject::Subject(char [],float,float,float)': member function already defined or declared
+E:\GetHub\C-Plus-Plus\Review Structure\Review Structure\Source.cpp(112): message : see declaration of 'Subject::Subject'
